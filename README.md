@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hindboufeligha, a Computer Engineer.
-- 👀 I’m interested in Android dev, Front-End Dev, ML, and UI/UX Design.
-- 🌱 I’m currently learning Django, UI/UX Design.
+- 👀 I’m interested in ML, Android Dev, and UI/UX Design.
+- 🌱 ..
 
 
 <!---
