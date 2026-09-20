@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hindboufeligha, a Computer Engineer and a Master's student at the University of Vienna.
-- 👀 I’m interested in ML, Data Science, and UI/UX Design.
-- 🌱 Currently working on some Deep Learning Projects.
+- 👀 I’m interested in Software Engineering, ML, Data Science, and data-driven Research.
+- 🌱 Currently working on some SE/ML Projects.
 
 
 <!---
