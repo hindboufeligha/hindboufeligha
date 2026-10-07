@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @hindboufeligha, a Computer Engineer with an **MSc degree in Computer Science from the University of Vienna**.
 - 🌱 Take a look at my [MSc thesis](https://utheses.univie.ac.at/detail/81737/)! 
-- 👀 I'm interested in Software Engineering, AI/ML, Data Science, and data-driven Research.
+- 👀 I'm interested in Software Engineering, AI/ML, and data-driven Research.
 - 🌱 Currently working on some SE/ML Projects.
 
 
